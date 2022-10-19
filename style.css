@@ -106,6 +106,7 @@ body {
     margin-bottom: 1.5rem;
     filter: drop-shadow(0 12px 7px rgba(7, 23, 255, .245));
     text-decoration: none;
+    transition: background-color 0.3s ease;
 }
 
 .container a.proceed-btn:hover {
